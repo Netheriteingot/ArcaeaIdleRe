@@ -1,0 +1,123 @@
+.fn1 {
+	border: 50px solid black;
+	width: 400px;
+	opacity: .5;
+}
+.lc{font-family:"Lucida Console",Consolas;}
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #f9f9f9;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	padding: 12px 16px;
+}
+.dropdown:hover .dropdown-content {
+	display: block;
+}
+.leftlist {
+	width:150px;
+	padding:10px;
+	border:5px solid gray;
+	margin:10px;
+    position:fixed;
+    left:0px;
+    top:60px;
+}
+.tab {
+	width:1000px;
+	padding:10px;
+	border:5px solid gray;
+	margin:10px;
+    position:absolute;
+    left:200px;
+    top:60px;
+}
+.rn {
+	width:1000px;
+	padding:10px;
+	border:5px solid gray;
+	margin:10px;
+    position:absolute;
+    left:200px;
+    top:120px;
+}
+.buildingname {
+    position:absolute;
+    left:220px;
+    top:200px;
+}
+.buildingbuy {
+    position:absolute;
+    top:200px;
+    left:670px;
+}
+.buildingproduce {
+    position:absolute;
+    left:450px;
+    top:200px;
+}
+.Ug1 {
+	width:150px;
+	height:38px;
+	padding:10px;
+	border:5px solid gray;
+	margin:10px;
+    position:absolute;
+    left:200px;
+    top:200px;
+}
+.Ug1t {
+    position:relative;
+    left:50px;
+    top:-25px;
+}
+.Ug2 {
+	width:150px;
+	height:38px;
+	padding:10px;
+	border:5px solid gray;
+	margin:10px;
+    position:absolute;
+    left:400px;
+    top:200px;
+}
+.Ug3 {
+	width:150px;
+	height:38px;
+	padding:10px;
+	border:5px solid gray;
+	margin:10px;
+    position:absolute;
+    left:600px;
+    top:200px;
+}
+.Ug4 {
+	width:150px;
+	height:38px;
+	padding:10px;
+	border:5px solid gray;
+	margin:10px;
+    position:absolute;
+    left:800px;
+    top:200px;
+}
+.Ug5 {
+	width:150px;
+	height:38px;
+	padding:10px;
+	border:5px solid gray;
+	margin:10px;
+    position:absolute;
+    left:1000px;
+    top:200px;
+}
+.pv {
+    position:absolute;
+    left:200px;
+    top:300px;
+}
